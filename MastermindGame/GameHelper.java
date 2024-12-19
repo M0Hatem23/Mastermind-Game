@@ -23,7 +23,7 @@ public class GameHelper
 About us :-
 
 1. Mahmoud Ahmed Shehata Mansour                        [2300736]
-2. Mohamed Hatem  Kamal El-Nagar                        [2300739]
+2. Mohamed Hatem Kamal El-Nagar                        [2300739]
 3. Mohammed Ahmed Abdelhameed Elgzzar                   [2300740]
 4. Mohamed Khaled Fahim Aly                             [2300731]
 5. Omar Mohamed Ramzy Mohamed                           [2301247]
