@@ -83,6 +83,7 @@ public class Mastermind
     {
         if (!win)
             System.out.println("\nYou lose ):");
+    	win = false;
         GameHelper.printHistory();
     }
     
